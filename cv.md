@@ -30,3 +30,10 @@ I work in geology and record information in the license database, but it doesn't
        </script>
     </body>
     </html>
+
+ ## **Education**
+Moscow University for Industry and Finance Synergy (Management)
+
+## **Languages**
++ Russian - native
++ English - A2
