@@ -14,3 +14,19 @@ I work in geology and record information in the license database, but it doesn't
 + HTML5
 + CSS
 + Git/GitHub
+
+## **Code example**
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+       <meta charset="UTF-8">
+       <meta http-equiv="X-UA-Compatible" content="IE=edge">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Document</title>
+    </head>
+    <body>
+       <script>
+          alert('Hello World!')
+       </script>
+    </body>
+    </html>
