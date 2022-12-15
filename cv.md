@@ -22,7 +22,7 @@ I work in geology and record information in the license database, but it doesn't
 </script>
 ```
 
- ## **Education**
+## **Education**
 Moscow University for Industry and Finance Synergy (Management)
 
 ## **Languages**
