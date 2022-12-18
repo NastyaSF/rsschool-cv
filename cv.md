@@ -5,10 +5,10 @@
 + E-mail: anastasiya.fedkina.s@gmail.com
 + Telegram: @purplegiraffe
 + GitHub: @NastyaSF
-+ Discord: Anastasiya Fedkina (@NastyaSF)
++ Discord: Anastasiya Fedkina#6017
 
 ## **About me**
-I work in geology and record information in the license database, but it doesn't give me new skills.I really want to change activities and become a FrontEnd Developer. I am want to learn new skills and hope that teamwork skills and attentiveness will help me in my new profession.
+I work in geology and record information in a licensed database. I really want to change activities and become a FrontEnd Developer. I hope that my teamwork skills, attentiveness and willingness to learn will help me in my new profession.
 
 ## **Skills**
 + HTML5
@@ -16,22 +16,13 @@ I work in geology and record information in the license database, but it doesn't
 + Git/GitHub
 
 ## **Code example**
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-       <meta charset="UTF-8">
-       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <title>Document</title>
-    </head>
-    <body>
-       <script>
-          alert('Hello World!')
-       </script>
-    </body>
-    </html>
+```
+<script>
+   alert('Hello World!')
+</script>
+```
 
- ## **Education**
+## **Education**
 Moscow University for Industry and Finance Synergy (Management)
 
 ## **Languages**
